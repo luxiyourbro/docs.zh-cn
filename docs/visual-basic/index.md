@@ -17,7 +17,7 @@ ms.locfileid: "39245708"
 
 Visual Basic 用于高效生成类型安全和面向对象的应用程序。 Visual Basic 使开发人员能够以 Windows、Web 和移动设备为目标。 与所有面向 Microsoft .NET Framework 的语言一样，安全性和语言互操作性让使用 Visual Basic 编写的程序大大受益。  
   
- 这一代 Visual Basic 将延续传统，继续方便你快速轻松地创建 .NET Framework 应用程序。  
+ 这一代 Visual Basic 将延续传统，继续方便你快速轻松地创建基于 .NET Framework 的应用程序。  
   
  如果你尚无 Visual Basic，可以从 [Visual Studio](https://aka.ms/vsdownload?utm_source=mscom&utm_campaign=msdocs) 网站免费获取包含 Visual Basic 的 Visual Studio 版本。  
   
